@@ -1,0 +1,84 @@
+.apmainp{
+    padding: 5% 20%;
+}
+
+.apheading{
+    border-bottom: 1px solid rgb(109, 109, 109);
+    width: 100%;
+    padding: 2% 0%;
+}
+
+ .approfile-data{
+    margin-top: 4%;
+
+ }
+
+ .form-aregister{
+    border: 2px solid rgb(187, 187, 187);
+    padding: 5%;
+    border-radius: 10px;
+    max-width: 75%;
+    margin-left: 8%;
+    margin: 5% 0%;
+}
+
+.form-aregister h3{
+    text-align: center;
+    padding-bottom: 2% ;
+    font-size: 150%;
+}
+
+.form-aregister label{
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+}
+
+.move{
+    margin-top: 2%;
+}
+
+.mover{
+    margin-left: 2%;
+}
+
+.cards{
+    width: 100%;
+    margin-top: 2%;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-wrap:wrap;
+    margin-left: -2%;
+
+  }
+
+  .card{
+    margin: 20px;
+    width: 35%;
+  }
+
+  b{
+    color: #05701c;
+    font-weight: 600;
+  }
+
+  b.red{
+    color: rgb(161, 0, 0);
+  }
+
+  b.green{
+    color: #00b928;
+  }
+
+  li p{
+    font-size: 15px;
+  }
+
+  li h5{
+    font-size: 18px;
+    margin-top: 5%;
+  }
+
+  .mover{
+    margin-left: 2%;
+  }

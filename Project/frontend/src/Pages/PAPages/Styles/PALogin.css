@@ -1,0 +1,69 @@
+/* Design =====================*/
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    transition: .3s;
+    color: rgb(252, 103, 103);
+}
+
+.navbar-brand:hover{
+    transition: .3s;
+    color: rgb(252, 103, 103);
+}
+
+.main-aregister{
+    display: flex;
+}
+
+.main-aimage{
+    max-width: 100%;
+    padding: 5%;
+    flex: 1;
+}
+
+.main-aimage img{
+    margin-left: 25%;
+    margin-top: 12%;
+    max-width: 50%;
+}
+
+.register-form{
+    max-width: 100%;
+    padding: 3%;
+    flex: 1;
+}
+
+.form-aregister{
+    border: 2px solid rgb(187, 187, 187);
+    padding: 5%;
+    border-radius: 10px;
+    max-width: 75%;
+    margin-left: 8%;
+    margin: 15% 0%;
+}
+
+.form-aregister h3{
+    text-align: center;
+    padding-bottom: 2% ;
+    font-size: 150%;
+}
+
+.form-aregister label{
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+}
+
+.gender{
+    padding-top: 1%;
+}
+
+.male{
+    margin-left: 3%;
+}
+
+.submit-btn{
+    margin-top: 4%;
+}
+

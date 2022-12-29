@@ -1,0 +1,40 @@
+/*Designs =====================*/
+body{
+    font-family: 'Nunito', sans-serif;
+}
+
+.main-heading{
+    text-align: center;
+    padding-top: 5%;
+    margin-top: 1%;
+}
+
+.main-login{
+    display: flex;
+    padding: 0%;
+    padding-top: 3%;
+}
+
+.login-card{
+    border: 2px solid rgb(148, 148, 148);
+    border-radius: 10px;
+    text-align: center;
+    margin: 1%;
+    padding: 2%;
+    transition: .3s;
+}
+
+.login-card:hover{
+    box-shadow: 5px 5px 15px rgb(62, 75, 255);
+    transition: .3s;  
+    border: 2px solid rgb(62, 75, 255);
+}
+
+.login-card a img{
+    max-width: 70%;
+    margin: 1%;
+}
+
+.login-card h3{
+    font-size: 125%;
+}

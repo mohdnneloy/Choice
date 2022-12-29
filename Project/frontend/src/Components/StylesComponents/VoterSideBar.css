@@ -1,0 +1,52 @@
+.sidenav {
+    height: 100%;
+    width: 13%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(27, 27, 27, 0.9);
+    overflow-x: hidden;
+    padding: 1%;
+  }
+  
+  .sidenav a {
+    padding: 4% 8%;
+    text-decoration: none;
+    font-size: 100%;
+    color: white;
+    display: block;
+  }
+
+  .sidenav button{
+    margin-left: 15px;
+    margin-top: 5px;
+  }
+  
+  .sidenav a:hover {
+    color: rgba(223, 84, 84, 0.9);
+  }
+
+  .bottom{
+    margin-top: 5%;
+  }
+
+  .btn-act{
+    background-color: rgba(185, 62, 62, 0.9);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgba(185, 62, 62, 0.9);
+    border-radius: 5px;
+    padding: 2% 5%;
+    font-style: bold;
+    transition: .3s;
+  }
+
+  .btn-act:hover{
+    background-color: rgba(160, 33, 33, 0.9);
+    color: rgba(255, 255, 255, 0.9);
+    border: 2px solid rgba(160, 33, 33, 0.9);
+    border-radius: 5px;
+    padding: 2% 5%;
+    font-style: bold;
+    transition: .3s;
+  }

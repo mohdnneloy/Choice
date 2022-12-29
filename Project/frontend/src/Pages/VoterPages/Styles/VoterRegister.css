@@ -1,0 +1,73 @@
+/* Design =====================*/
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    transition: .3s;
+    color: rgb(252, 103, 103);
+}
+
+.navbar-brand:hover{
+    transition: .3s;
+    color: rgb(252, 103, 103);
+}
+
+.main-aregister{
+    display: flex;
+}
+
+.main-aimage{
+    max-width: 100%;
+    padding: 5%;
+    flex: 1;
+}
+
+.main-aimage img{
+    margin-left: 25%;
+    margin-top: 12%;
+    max-width: 50%;
+}
+
+.register-form{
+    width: 100%;
+    flex: 1;
+    margin-top: -50px;
+}
+
+.form-aregister{
+    border: 2px solid rgb(187, 187, 187);
+    border-radius: 10px;
+    max-width: 80%;
+}
+
+.form-heading h3{
+    text-align: left;
+}
+
+.form-aregister label{
+    padding-top: 1.5%;
+    padding-bottom: 1%;
+}
+
+.moves{
+    margin-left: 2%;
+}
+
+.movec{
+    margin-left: 32%;
+}
+
+.movecp{
+    margin-left: 40%;
+}
+
+.fimage {
+    margin-left: 34%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.fimagef{
+    margin-left: 32%;
+    margin-top: 2%;
+}

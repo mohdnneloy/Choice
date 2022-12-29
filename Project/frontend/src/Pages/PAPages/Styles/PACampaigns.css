@@ -1,0 +1,33 @@
+.amainp{
+    padding: 5% 20%;
+}
+
+.aheading{
+    border-bottom: 1px solid rgb(109, 109, 109);
+    width: 100%;
+    padding: 2% 0%;
+}
+
+ .aprofile-data{
+    margin-top: 4%;
+
+ }
+
+ .aprofile-data p{
+    font-weight: 600;
+ }
+
+ .aprofile-data p span{
+    font-weight: lighter;
+ }
+
+ .cards{
+   width: 50%;
+   margin-top: 2%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: left;
+   align-items: left;
+   margin-left: -2%;
+
+ }
